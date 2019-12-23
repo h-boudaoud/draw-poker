@@ -13,6 +13,4 @@ une méthode pour :
     pour détailler les figures possibles dans un jeu: Figure.java;
     pour modéliser un joueur (mise, solde): Joueur.java.
 
-Vous pouvez télécharger le projet Draw poker ici.
-
 Vous pouvez télécharger le JAR ici et l'executer dans un terminal avec la commande java -jar DrawPoker.jar.
